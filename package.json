@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "pm2 start index.js"
+    "start": "node ./index.js"
   },
   "dependencies": {
     "prisma-accelerate-local": "^1.1.4"
