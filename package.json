@@ -4,5 +4,19 @@
   },
   "dependencies": {
     "prisma-accelerate-local": "^1.1.4"
-  }
+  },
+  "name": "prisma-local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zMattew/prisma-local.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zMattew/prisma-local/issues"
+  },
+  "homepage": "https://github.com/zMattew/prisma-local#readme",
+  "description": ""
 }
